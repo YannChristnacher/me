@@ -57,7 +57,7 @@ import MyBlockContent from "~/components/MyBlockContent.vue";
       <p>J'ai créé une entreprise sur laquelle j'ai été amené à travailler sur quelques sites vitrines.</p><br>
       <p>Malheureusement, en raison de la pandémie et de projets personnels j'ai dû retrouner en CDI par la suite.</p><br>
       <p>Ca été une expérience très enrichissante qui m'a donné l'occasion de voir d'autres facettes de mon métier.</p>
-      <p>Voici un exemple de site sur lequel j'ai travaillé : <a class="underline text-slate-300" href="https://tellos.fr/filiales/sogeca-therm/">SOGECA THERM</a></p>
+      <p>Voici un exemple de site sur lequel j'ai travaillé : <a class="underline text-slate-300" target="_blank" href="https://tellos.fr/filiales/sogeca-therm/">SOGECA THERM</a></p>
     </Work>
 
     <!-- Diatem -->
@@ -75,9 +75,9 @@ import MyBlockContent from "~/components/MyBlockContent.vue";
       <p>J'ai aussi eu l'occasion de travailler sur des applications web pour tablettes (gestion d'entretien de station de lavage Elephant bleu)</p>
       <p>Exemple de sites : </p>
       <ul class="list-disc list-inside mt-3">
-        <li class="text-slate-400"><a class="underline text-slate-300" href="https://www.theatredelachouc.com/">Théâtre de la Choucrouterie</a></li>
-        <li class="text-slate-400"><a class="underline text-slate-300" href="https://www.wolfberger.com/">Wolfberger</a></li>
-        <li class="text-slate-400"><a class="underline text-slate-300" href="https://www.escal.fr/">Escal</a></li>
+        <li class="text-slate-400"><a class="underline text-slate-300" target="_blank" href="https://www.theatredelachouc.com/">Théâtre de la Choucrouterie</a></li>
+        <li class="text-slate-400"><a class="underline text-slate-300" target="_blank" href="https://www.wolfberger.com/">Wolfberger</a></li>
+        <li class="text-slate-400"><a class="underline text-slate-300" target="_blank" href="https://www.escal.fr/">Escal</a></li>
       </ul>
     </Work>
 
